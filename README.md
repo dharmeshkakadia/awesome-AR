@@ -12,6 +12,7 @@ A curated list of awesome AR resources
 * [ArgonJS](https://github.com/argonjs/argon)
 * https://github.com/zac/iphonearkit
 * https://github.com/calonso/ios-arkit
+* [CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation)
 
 ## Examples
 * https://github.com/farice/ARShooter
