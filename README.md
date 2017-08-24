@@ -29,3 +29,4 @@ A curated list of awesome AR resources
 * https://github.com/eugenebokhan/ARKit-QRMarker
 * https://github.com/Arthraim/ARTagger
 * https://github.com/laanlabs/ARBrush
+* https://github.com/handsomecode/arkit-shell-game
