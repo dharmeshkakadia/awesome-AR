@@ -26,7 +26,6 @@ A curated list of awesome AR resources
 * https://github.com/PGSSoft/3DSnakeAR
 * https://github.com/arirawr/ARKit-FloorIsLava
 * https://github.com/eh3rrera/ARKitGameSpriteKit
-* https://github.com/eugenebokhan/ARKit-QRMarker
 * https://github.com/Arthraim/ARTagger
 * https://github.com/laanlabs/ARBrush
 * https://github.com/handsomecode/arkit-shell-game
