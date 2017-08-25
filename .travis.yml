@@ -2,6 +2,6 @@ language: ruby
 rvm: 2.4.1
 before_script: 
   - gem install awesome_bot danger
-  - danger
 script: 
   - awesome_bot README.md --allow-redirect
+  - danger
