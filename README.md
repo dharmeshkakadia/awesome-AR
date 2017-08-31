@@ -16,6 +16,9 @@ A curated list of awesome AR resources
 * [React Native](https://github.com/HippoAR/react-native-arkit)
 * [Charts](https://github.com/Boris-Em/ARCharts)
 * [CoreML](https://github.com/hanleyweng/CoreML-in-ARKit)
+* [WebARonARKit](https://github.com/google-ar/WebARonARKit)
+* [ThreeAR](https://github.com/google-ar/three.ar.js)
+
 
 ## Examples
 * https://github.com/farice/ARShooter
