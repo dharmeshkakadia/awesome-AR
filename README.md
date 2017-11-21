@@ -35,3 +35,4 @@ A curated list of awesome AR resources
 * https://github.com/markdaws/arkit-by-example
 * https://github.com/NovaTecConsulting/FaceRecognition-in-ARKit
 * https://github.com/lapfelix/ARKit-line-drawing
+* [Super Mario Bros](https://github.com/bjarnel/arkit-smb-homage)
