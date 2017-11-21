@@ -33,3 +33,4 @@ A curated list of awesome AR resources
 * https://github.com/laanlabs/ARBrush
 * https://github.com/handsomecode/arkit-shell-game
 * https://github.com/markdaws/arkit-by-example
+* https://github.com/NovaTecConsulting/FaceRecognition-in-ARKit
