@@ -37,4 +37,4 @@ A curated list of awesome AR resources
 * https://github.com/lapfelix/ARKit-line-drawing
 * [Super Mario Bros](https://github.com/bjarnel/arkit-smb-homage)
 * https://github.com/oabdelkarim/ARPaint
-
+* [AR-Pizza-Slicer](https://github.com/roberthein/AR-Pizza-Slicer)
