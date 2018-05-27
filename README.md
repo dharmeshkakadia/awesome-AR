@@ -18,7 +18,7 @@ A curated list of awesome AR resources
 * [CoreML](https://github.com/hanleyweng/CoreML-in-ARKit)
 * [WebARonARKit](https://github.com/google-ar/WebARonARKit)
 * [ThreeAR](https://github.com/google-ar/three.ar.js)
-
+* [AR.js](https://github.com/jeromeetienne/AR.js)
 
 ## Examples
 * https://github.com/farice/ARShooter
