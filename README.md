@@ -19,6 +19,7 @@ A curated list of awesome AR resources
 * [WebARonARKit](https://github.com/google-ar/WebARonARKit)
 * [ThreeAR](https://github.com/google-ar/three.ar.js)
 * [AR.js](https://github.com/jeromeetienne/AR.js)
+* [PapARt](https://github.com/poqudrof/papart)
 
 ## Examples
 * https://github.com/farice/ARShooter
