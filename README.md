@@ -21,6 +21,7 @@ A curated list of awesome AR resources
 * [AR.js](https://github.com/jeromeetienne/AR.js)
 * [PapARt](https://github.com/poqudrof/papart)
 * [DxR](https://github.com/ronellsicat/DxR)
+* [Lullaby](https://github.com/google/lullaby)
 
 ## Examples
 * https://github.com/farice/ARShooter
