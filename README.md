@@ -48,6 +48,5 @@ A curated list of awesome AR resources
 * https://github.com/songkuixi/ARBottleJump
 * https://github.com/svtek/ARKitEnvironmentMapper
 * https://github.com/shu223/ARKit-Sampler
-* https://github.com/arirawr/ARKit-FloorIsLava
 * https://github.com/miliPolo/ARSolarPlay
 
