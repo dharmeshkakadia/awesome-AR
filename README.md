@@ -41,3 +41,4 @@ A curated list of awesome AR resources
 * [Super Mario Bros](https://github.com/bjarnel/arkit-smb-homage)
 * https://github.com/oabdelkarim/ARPaint
 * [AR-Pizza-Slicer](https://github.com/roberthein/AR-Pizza-Slicer)
+* [NavigatAR](https://github.com/michaelgira23/navigatAR)
