@@ -22,6 +22,7 @@ A curated list of awesome AR resources
 * [PapARt](https://github.com/poqudrof/papart)
 * [DxR](https://github.com/ronellsicat/DxR)
 * [Lullaby](https://github.com/google/lullaby)
+* https://github.com/DanijelHuis/HDAugmentedReality
 
 ## Examples
 * https://github.com/farice/ARShooter
@@ -41,5 +42,11 @@ A curated list of awesome AR resources
 * [Super Mario Bros](https://github.com/bjarnel/arkit-smb-homage)
 * https://github.com/oabdelkarim/ARPaint
 * [AR-Pizza-Slicer](https://github.com/roberthein/AR-Pizza-Slicer)
-* [NavigatAR](https://github.com/michaelgira23/navigatAR)
-* [ARRubiks](https://github.com/Nicholas714/ARRubiks)
+* https://github.com/michaelgira23/navigatAR
+* https://github.com/Nicholas714/ARRubiks
+* https://github.com/HTN-2017/AR-Planes
+* https://github.com/songkuixi/ARBottleJump
+* https://github.com/svtek/ARKitEnvironmentMapper
+* https://github.com/shu223/ARKit-Sampler
+* https://github.com/miliPolo/ARSolarPlay
+
