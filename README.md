@@ -42,3 +42,4 @@ A curated list of awesome AR resources
 * https://github.com/oabdelkarim/ARPaint
 * [AR-Pizza-Slicer](https://github.com/roberthein/AR-Pizza-Slicer)
 * [NavigatAR](https://github.com/michaelgira23/navigatAR)
+* [ARRubiks](https://github.com/Nicholas714/ARRubiks)
