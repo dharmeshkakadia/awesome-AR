@@ -7,7 +7,6 @@ A curated list of awesome AR resources
 * [EasyAR](http://easyar.com/)
 * [ARToolKit](https://artoolkit.org/)
 
-
 ## Libraries/Frameworks/Tools
 * [ArgonJS](https://github.com/argonjs/argon)
 * https://github.com/zac/iphonearkit
@@ -23,6 +22,14 @@ A curated list of awesome AR resources
 * [DxR](https://github.com/ronellsicat/DxR)
 * [Lullaby](https://github.com/google/lullaby)
 * https://github.com/DanijelHuis/HDAugmentedReality
+
+## Videos
+* [Redefining what is humanly possible with augmented reality | Brian Mullins | TEDxSanDiego](https://youtu.be/x6_IZ8e9KuE)
+* [Augmented Reality | John Werner | TEDxAsburyPark](https://youtu.be/RDvBowq3ed8)
+* [Augmented Reality, science fiction is now science fact | Ryan Groom | TEDxMoncton](https://youtu.be/2zsIXVqxbuc)
+* [Augmented reality storytelling how it will change the way we play forever | Devon Lyon | TEDxSalem](https://youtu.be/sYl9wI3jnms)
+* [How Augmented Reality Will Change Education Completely | Florian Radke | TEDxGateway](https://youtu.be/5AjxGqzqQ54)
+* [Will virtual and augmented reality move us into the knowledge age? | Zenka | TEDxJacksonHole](https://youtu.be/2FA-IuDTMjE)
 
 ## Examples
 * https://github.com/farice/ARShooter
