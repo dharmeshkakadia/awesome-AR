@@ -6,6 +6,7 @@ A curated list of awesome AR resources
 * [vuforia](https://vuforia.com/)
 * [EasyAR](http://easyar.com/)
 * [ARToolKit](https://artoolkit.org/)
+* [Google ARCore](https://developers.google.com/ar/)
 
 ## Libraries/Frameworks/Tools
 * [ArgonJS](https://github.com/argonjs/argon)
