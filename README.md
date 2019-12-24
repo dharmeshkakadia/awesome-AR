@@ -3,9 +3,9 @@ A curated list of awesome AR resources
 
 ## Platforms
 * [Apple ARKit](https://developer.apple.com/arkit/)
-* [vuforia](https://vuforia.com/)
+* [vuforia](https://www.ptc.com/en/products/augmented-reality/vuforia)
 * [EasyAR](http://easyar.com/)
-* [ARToolKit](https://artoolkit.org/)
+* [ARToolKit](https://github.com/artoolkit)
 * [Google ARCore](https://developers.google.com/ar/)
 
 ## Libraries/Frameworks/Tools
