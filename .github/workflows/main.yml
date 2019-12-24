@@ -11,4 +11,4 @@ jobs:
     - uses: actions/checkout@v1
     - uses: docker://dkhamsing/awesome_bot:latest
       with:
-        args: --allow-redirect /home/runner/work/awesome-AR/awesome-AR/README.md
+        args: --allow-redirect /github/workspace/README.md
