@@ -13,6 +13,7 @@ A curated list of awesome AR resources
 * https://github.com/zac/iphonearkit
 * https://github.com/calonso/ios-arkit
 * [CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation)
+* [ViroReact: The AR/VR library for React Native](https://github.com/ViroCommunity/viro)
 * [React Native](https://github.com/HippoAR/react-native-arkit)
 * [Charts](https://github.com/Boris-Em/ARCharts)
 * [CoreML](https://github.com/hanleyweng/CoreML-in-ARKit)
@@ -23,6 +24,15 @@ A curated list of awesome AR resources
 * [DxR](https://github.com/ronellsicat/DxR)
 * [Lullaby](https://github.com/google/lullaby)
 * https://github.com/DanijelHuis/HDAugmentedReality
+* [Model Viewer](https://github.com/google/model-viewer)
+* [Media Capture](https://github.com/NextLevel/NextLevel)
+* [Lightweight face tracking library AR webcam filters](https://github.com/jeeliz/jeelizFaceFilter)
+
+## Standard/Spec
+* [WebXR](https://github.com/immersive-web/webxr)
+
+## Datasets
+* [Objectron - dataset of short object-centric video clips](https://github.com/google-research-datasets/Objectron)
 
 ## Videos
 * [Redefining what is humanly possible with augmented reality | Brian Mullins | TEDxSanDiego](https://youtu.be/x6_IZ8e9KuE)
