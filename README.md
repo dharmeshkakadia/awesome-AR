@@ -3,6 +3,7 @@ A curated list of awesome AR resources
 
 ## Platforms
 * [Apple ARKit](https://developer.apple.com/arkit/)
+* [RealityKit](https://developer.apple.com/documentation/realitykit)
 * [vuforia](https://www.ptc.com/en/products/augmented-reality/vuforia)
 * [EasyAR](http://easyar.com/)
 * [ARToolKit](https://github.com/artoolkit)
@@ -69,5 +70,6 @@ A curated list of awesome AR resources
 * https://github.com/miliPolo/ARSolarPlay
 * [MarvelAR](https://github.com/hadiidbouk/MarvelAR)
 * [🐶 Custom Animoji using Apples AvatarKit](https://github.com/simonbs/SBSCustomAnimoji) and [example app using it](https://github.com/simonbs/SBSAnimoji)
+* [FocusEntity - Scanning box from SceneKit to RealityKit](https://github.com/maxxfrazer/FocusEntity)
 
 
