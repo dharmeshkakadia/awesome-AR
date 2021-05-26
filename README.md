@@ -71,5 +71,6 @@ A curated list of awesome AR resources
 * [MarvelAR](https://github.com/hadiidbouk/MarvelAR)
 * [🐶 Custom Animoji using Apples AvatarKit](https://github.com/simonbs/SBSCustomAnimoji) and [example app using it](https://github.com/simonbs/SBSAnimoji)
 * [FocusEntity - Scanning box from SceneKit to RealityKit](https://github.com/maxxfrazer/FocusEntity)
+* [RealityKit CardFlip](https://github.com/maxxfrazer/RealityKit-CardFlip)
 
 
