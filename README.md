@@ -68,6 +68,6 @@ A curated list of awesome AR resources
 * https://github.com/shu223/ARKit-Sampler
 * https://github.com/miliPolo/ARSolarPlay
 * [MarvelAR](https://github.com/hadiidbouk/MarvelAR)
-
+* [🐶 Custom Animoji using Apples AvatarKit](https://github.com/simonbs/SBSCustomAnimoji) and [example app using it](https://github.com/simonbs/SBSAnimoji)
 
 
