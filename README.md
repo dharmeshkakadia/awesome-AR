@@ -28,6 +28,7 @@ A curated list of awesome AR resources
 * [Model Viewer](https://github.com/google/model-viewer)
 * [Media Capture](https://github.com/NextLevel/NextLevel)
 * [Lightweight face tracking library AR webcam filters](https://github.com/jeeliz/jeelizFaceFilter)
+* [RealityUI](https://github.com/maxxfrazer/RealityUI)
 
 ## Standard/Spec
 * [WebXR](https://github.com/immersive-web/webxr)
