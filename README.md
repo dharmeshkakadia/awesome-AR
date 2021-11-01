@@ -29,6 +29,7 @@ A curated list of awesome AR resources
 * [Media Capture](https://github.com/NextLevel/NextLevel)
 * [Lightweight face tracking library AR webcam filters](https://github.com/jeeliz/jeelizFaceFilter)
 * [RealityUI](https://github.com/maxxfrazer/RealityUI)
+* [ARVideoKit - Capture & record ARKit demos](https://github.com/AFathi/ARVideoKit)
 
 ## Standard/Spec
 * [WebXR](https://github.com/immersive-web/webxr)
