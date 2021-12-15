@@ -14,7 +14,7 @@ A curated list of awesome AR resources
 * https://github.com/zac/iphonearkit
 * https://github.com/calonso/ios-arkit
 * [CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation)
-* [ViroReact: The AR/VR library for React Native](https://github.com/ViroCommunity/viro)
+* [ViroCore: A cross-platform AR/VR renderer](https://github.com/ViroCommunity/virocore) and [ViroReact: The AR/VR library for React Native](https://github.com/ViroCommunity/viro)
 * [React Native](https://github.com/HippoAR/react-native-arkit)
 * [Charts](https://github.com/Boris-Em/ARCharts)
 * [CoreML](https://github.com/hanleyweng/CoreML-in-ARKit)
