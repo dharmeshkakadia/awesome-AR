@@ -8,6 +8,7 @@ A curated list of awesome AR resources
 * [EasyAR](http://easyar.com/)
 * [ARToolKit](https://github.com/artoolkit)
 * [Google ARCore](https://developers.google.com/ar/)
+* [Spark AR by Meta](https://sparkar.facebook.com/ar-studio/)
 
 ## Libraries/Frameworks/Tools
 * [ArgonJS](https://github.com/argonjs/argon)
