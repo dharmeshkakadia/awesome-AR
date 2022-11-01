@@ -31,6 +31,7 @@ A curated list of awesome AR resources
 * [Lightweight face tracking library AR webcam filters](https://github.com/jeeliz/jeelizFaceFilter)
 * [RealityUI](https://github.com/maxxfrazer/RealityUI)
 * [AvatarWebKit by Hallway](https://github.com/Hallway-Inc/AvatarWebKit)
+* [ARnft - WebAR with NFT](https://github.com/webarkit/ARnft)
 
 ## Recording
 * [ARVideoKit - Capture & record ARKit demos](https://github.com/AFathi/ARVideoKit)
