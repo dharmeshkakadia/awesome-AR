@@ -32,6 +32,7 @@ A curated list of awesome AR resources
 * [RealityUI](https://github.com/maxxfrazer/RealityUI)
 * [AvatarWebKit by Hallway](https://github.com/Hallway-Inc/AvatarWebKit)
 * [ARnft - WebAR with NFT](https://github.com/webarkit/ARnft)
+* [AR-Toolbox](https://github.com/SimonMarquis/AR-Toolbox)
 
 ## Recording
 * [ARVideoKit - Capture & record ARKit demos](https://github.com/AFathi/ARVideoKit)
